@@ -1,4 +1,4 @@
-# film-sitesi
+# Film Sitesi
 A simple and visually appealing web page created using HTML and CSS.
 This project demonstrates how to create a web page using modern web development techniques.
 
